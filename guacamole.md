@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-
+* Remove pit from avocado.
